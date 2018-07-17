@@ -1,0 +1,22 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "Full Stack MERN project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsanaj/mern-project.git"
+  },
+  "author": "Ahsan Jawed (AJ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsanaj/mern-project/issues"
+  },
+  "homepage": "https://github.com/ahsanaj/mern-project#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
